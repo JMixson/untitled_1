@@ -569,7 +569,7 @@ footer a:active {
 }
 
 .bg-cardboard {
-  background-image: url('../dist/img/bg-cardboard.jpg');
+  background-image: url('../img/bg-cardboard.jpg');
   background-repeat: repeat;
   background-size: cover;
   color: #ffffff;
