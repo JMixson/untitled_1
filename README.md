@@ -1,6 +1,6 @@
 # Untitled_1
 
-Sample website for the popup shop, Untitled_1, based in Utah.
+Sample website for the popup shop, [Untitled_1](https://untitled1shop.netlify.app/), based in Utah.
 
 ![Website Screenshot](untitled1-screenshot.png)
 
