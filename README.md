@@ -17,10 +17,10 @@ Sample website for the popup shop, Untitled_1, based in Utah.
 
 - Font: Futura PT
 - Colors:
-  - Blue: <span style="background-color:#a0cced; padding: 0.25rem; border-radius: 5px;">#A0CCED</span>,
-  - Yellow: <span style="background-color:#F5DA31; padding: 0.25rem; border-radius: 5px;">#F5DA31</span>,
-  - Brown: <span style="background-color:#9a8564; color: #fff; padding: 0.25rem; border-radius: 5px;">#9A8564</span>,
-  - Black: <span style="background-color:#2e2e30; color: #fff; padding: 0.25rem; border-radius: 5px;">#2E2E30</span>,
-  - Dark Gray: <span style="background-color:#6c6c6e; color: #fff; padding: 0.25rem; border-radius: 5px;">#6C6C6E</span>,
-  - Gray: <span style="background-color:#eaebe6; padding: 0.25rem; border-radius: 5px;">#EAEBE6</span>,
-  - White: <span style="background-color:#ffffff; padding: 0.25rem; border-radius: 5px; border: 2px solid #000">#FFFFFF</span>
+  - ![#A0CCED](https://via.placeholder.com/15/A0CCED/000000?text=+) `#A0CCED`
+  - ![#F5DA31](https://via.placeholder.com/15/F5DA31/000000?text=+) `#F5DA31`
+  - ![#9A8564](https://via.placeholder.com/15/9A8564/000000?text=+) `#9A8564`
+  - ![#2E2E30](https://via.placeholder.com/15/2E2E30/000000?text=+) `#2E2E30`
+  - ![#6C6C6E](https://via.placeholder.com/15/6C6C6E/000000?text=+) `#6C6C6E`
+  - ![#EAEBE6](https://via.placeholder.com/15/EAEBE6/000000?text=+) `#EAEBE6`
+  - ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`
